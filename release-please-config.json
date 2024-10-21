@@ -1,5 +1,9 @@
 {
   "bootstrap-sha": "15e7a31849cafe2405846454f3997c855392a13e",
+  "plugins": [
+    "go-workspace"
+  ],
+  "release-type": "go",
   "packages": {
     "packages/goA": {
       "changelog-path": "packages/goA/CHANGELOG.md",
@@ -42,8 +46,5 @@
       "prerelease": false
     }
   },
-  "plugins": [
-    "go-workspace"
-  ],
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
 }
