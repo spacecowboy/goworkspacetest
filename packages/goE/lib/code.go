@@ -3,7 +3,7 @@ package lib
 import libA "example.com/packages/goA/lib"
 
 func FuncE() string {
-	return "FuncE"
+	return "FuncE updated"
 }
 
 type StructE struct {
