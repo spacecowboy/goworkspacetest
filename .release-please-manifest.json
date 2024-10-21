@@ -1,7 +1,7 @@
 {
   "packages/goA": "1.1.2",
-  "packages/goB": "2.2.3",
-  "packages/goC": "3.3.4",
+  "packages/goB": "2.3.0",
+  "packages/goC": "3.3.5",
   "packages/goD": "1.2.4",
-  "packages/goE": "3.3.4"
+  "packages/goE": "3.3.5"
 }
