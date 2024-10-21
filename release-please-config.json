@@ -1,5 +1,5 @@
 {
-  "bootstrap-sha": "",
+  "bootstrap-sha": "15e7a31849cafe2405846454f3997c855392a13e",
   "packages": {
     "packages/goA": {
       "changelog-path": "packages/goA/CHANGELOG.md",
