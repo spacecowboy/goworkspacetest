@@ -1,7 +1,7 @@
 package lib
 
 func FuncD() string {
-	return "FuncD"
+	return "FuncD updated"
 }
 
 type StructD struct {
