@@ -1,7 +1,7 @@
 package lib
 
 func FuncA() string {
-	return "lib.FuncA"
+	return "lib.FuncA now updated"
 }
 
 type StructA struct {
