@@ -7,23 +7,38 @@
   "packages": {
     "packages/goA": {
       "component": "goA",
-      "release-type": "go"
+      "release-type": "go",
+      "extra-files": [
+        "go.mod"
+      ]
     },
     "packages/goB": {
       "component": "goB",
-      "release-type": "go"
+      "release-type": "go",
+      "extra-files": [
+        "go.mod"
+      ]
     },
     "packages/goC": {
       "component": "goC",
-      "release-type": "go"
+      "release-type": "go",
+      "extra-files": [
+        "go.mod"
+      ]
     },
     "packages/goD": {
       "component": "goD",
-      "release-type": "go"
+      "release-type": "go",
+      "extra-files": [
+        "go.mod"
+      ]
     },
     "packages/goE": {
       "component": "goE",
-      "release-type": "go"
+      "release-type": "go",
+      "extra-files": [
+        "go.mod"
+      ]
     }
   },
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
