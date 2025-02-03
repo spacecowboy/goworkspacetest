@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Release Please
-        uses: spacecowboy/release-please-action@main
+        uses: spacecowboy/release-please-action@4.1.4-go.1
         id: release
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
