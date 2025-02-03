@@ -3,6 +3,14 @@
 * The following workspace dependencies were updated
   * example.com/packages/goA bumped from 1.1.1 to 1.1.2
 
+## [2.4.1](https://github.com/spacecowboy/goworkspacetest/compare/goB-v2.4.0...goB-v2.4.1) (2025-02-03)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * example.com/packages/goA bumped from 1.1.2 to 1.1.4
+
 ## [2.4.0](https://github.com/spacecowboy/goworkspacetest/compare/goB-v2.3.0...goB-v2.4.0) (2024-10-21)
 
 
